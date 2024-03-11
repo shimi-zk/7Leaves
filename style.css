@@ -2136,7 +2136,7 @@ footer {
     }
 
     .concept-title {
-        font-size: 27px;
+        font-size: 25px;
     }
 
     .greeting-text {
@@ -2176,7 +2176,8 @@ footer {
     }
 
     .driver-text,
-    .wish-text {
+    .wish-text,
+    .earnings-text{
         font-size: 20px;
     }
 
@@ -2192,11 +2193,7 @@ footer {
         margin-bottom: 50px;
         font-size: 20px;
     }
-
-    /* .list-text {
-        padding-bottom: 15px;
-    } */
-
+    
     .earnings-list {
         padding: 15px 10px;
     }
