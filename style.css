@@ -544,11 +544,8 @@ footer {
     color: #ffffff;
     font-size: 80px;
     background: #7ddb86af;
-    text-shadow: 1px 1px 0px rgba(1, 167, 129, 0.99),
-        1px 1px 0px rgba(1, 167, 129, 0.99),
-        1px 1px 0px rgba(1, 167, 129, 0.99),
-        1px 1px 0px rgba(1, 167, 129, 0.99);
     -webkit-text-stroke: 1px #01A781;
+    text-stroke: 1px #01A781;
     position: absolute;
     top: 40%;
     left: 50%;
