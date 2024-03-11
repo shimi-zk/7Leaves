@@ -1801,6 +1801,10 @@ footer {
         width: 100%;
     }
 
+    .footer-menu ul {
+        padding: 10px 0;
+    }
+
     .footer-menu ul li a {
         font-size: 14px;
     }
