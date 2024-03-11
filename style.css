@@ -1727,6 +1727,10 @@ footer {
         right: 40%;
     }
 
+    .concept-title {
+        margin-bottom: 30px;
+    }
+
     .concept-text {
         font-size: 18px;
     }
