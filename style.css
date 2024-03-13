@@ -943,6 +943,7 @@ footer {
 }
 
 .list-text2 {
+    margin-bottom: 20px;
     padding-bottom: 10px;
     font-weight: lighter;
     font-size: 30px;
@@ -2114,7 +2115,6 @@ footer {
     }
 
     .flow {
-        font-size: 25px;
         font-weight: 300;
     }
 
