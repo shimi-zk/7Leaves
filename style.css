@@ -132,7 +132,7 @@ ol {
 }
 
 .mail {
-    width: 50%;
+    width: 100%;
     margin-right: 10px;
     padding: 10px;
     align-items: center;
@@ -148,7 +148,7 @@ ol {
 }
 
 .apply {
-    width: 50%;
+    width: 100%;
     margin-left: 10px;
     padding: 10px;
     background: linear-gradient(rgb(214, 63, 127), rgb(242, 108, 180), rgb(235, 137, 179));
@@ -550,11 +550,12 @@ footer {
 
 /* .overview-service */
 .service-btn {
+    display: flex;
     margin-top: 50px;
 }
 
 .service-btn a {
-    width: 30%;
+    width: 100%;
     display: inline-block;
     margin-left: 50px;
     padding: 20px 0;
@@ -1313,7 +1314,7 @@ footer {
     background: #e77fab;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 860px) {
     .pc {
         display: none;
     }
@@ -1600,6 +1601,11 @@ footer {
     .mail-name {
         font-size: 20px;
         margin-left: 43%;
+    }
+
+    .service-btn {
+        align-items: center;
+        flex-direction: column;
     }
 
     .service-btn a {
