@@ -837,6 +837,7 @@ footer {
 
 .driver-item,
 #driver-wish p {
+    margin-top: 20px;
     font-size: 18px;
     text-align: left;
 }
