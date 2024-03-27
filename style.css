@@ -1768,9 +1768,13 @@ footer {
         margin-bottom: 20px;
     }
 
-    .driver-text,
+    .driver-text {
+        margin-bottom: 25px;
+        font-size: 25px;
+    }
+
     .wish-text {
-        margin-bottom: 30px;
+        margin-bottom: 40px;
         font-size: 25px;
     }
 
