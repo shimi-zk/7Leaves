@@ -609,8 +609,6 @@ footer {
     background: #00000046;
 }
 
-
-
 /* work */
 
 .flow {
@@ -818,7 +816,7 @@ footer {
 
 /* driver-wish */
 .wish-text {
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     font-weight: lighter;
     font-size: 30px;
     position: relative;
@@ -1772,6 +1770,7 @@ footer {
 
     .driver-text,
     .wish-text {
+        margin-bottom: 30px;
         font-size: 25px;
     }
 
