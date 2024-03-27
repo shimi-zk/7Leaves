@@ -294,7 +294,7 @@ ol {
 .related-type img {
     margin-bottom: 10px;
     /* 画像の大きさ合わせる */
-    aspect-ratio: 200/200;
+    aspect-ratio: 180/180;
 }
 
 .type img {
@@ -1661,6 +1661,7 @@ footer {
 
     .service-wrapper {
         flex-direction: column;
+        padding-bottom: 20px;
     }
 
     .tariff {
