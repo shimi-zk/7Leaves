@@ -1224,10 +1224,10 @@ footer {
 }
 
 .form-option {
-    width: 75%;
+    width: 71.6%;
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 5%;
+    margin-left: 3%;
     border: solid 1px #797979;
     position: relative;
 }
@@ -1899,7 +1899,7 @@ footer {
 
     .form-option {
         width: 69%;
-        margin-left: 7%;
+        margin-left: 5.5%;
     }
 
     .form-input textarea {
@@ -2278,5 +2278,9 @@ footer {
     .driver-form-btn input {
         width: 60%;
         font-size: 14px;
+    }
+
+    .form-option::before {
+        left: 90%;
     }
 }
