@@ -1711,6 +1711,7 @@ footer {
 
     .related-wrapper {
         flex-direction: column;
+        padding-bottom: 0;
     }
 
     .related-type {
