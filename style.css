@@ -259,8 +259,9 @@ ol {
 }
 
 .chapter-title {
-    display: inline-block;
-    margin-bottom: 50px;
+    width: 35%;
+    display: block;
+    margin: 0 auto 50px;
     padding: 0 10%;
     font-family: 'Bayon';
     background-color: #7ddb86af;
